@@ -7,4 +7,4 @@
   <img src="https://media.giphy.com/media/4qjP6rIloYJEs/giphy.gif width="100"/>
 </div>
 My first repository post
-I love :drums                                                                             
+I love 🥁                                                                             
